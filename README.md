@@ -1,2 +1,2 @@
-# Bigcontest_KBO
-Bigcontest_KBO
+# Bigcontest_2020
+Bigcontest_2020
